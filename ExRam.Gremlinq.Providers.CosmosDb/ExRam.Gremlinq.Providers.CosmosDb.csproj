@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard20</TargetFrameworks>
     <Description>Azure CosmosDb provider binding for ExRam.Gremlinq.</Description>
+    <PackageId>ExRam.Gremlinq.Providers.CosmosDb</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
